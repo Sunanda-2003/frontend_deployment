@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220" role="img" aria-label="DevOps infinity loop">
+  <rect width="400" height="220" rx="12" fill="#ffffff"/>
+  <path d="M200 110 C160 40, 60 40, 60 110 C60 180, 160 180, 200 110 Z" fill="none" stroke="#00a2ff" stroke-width="18"/>
+  <path d="M200 110 C240 40, 340 40, 340 110 C340 180, 240 180, 200 110 Z" fill="none" stroke="#ff9800" stroke-width="18"/>
+  <text x="115" y="116" font-family="Arial" font-size="20" font-weight="bold" fill="#0077cc" text-anchor="middle">DEV</text>
+  <text x="285" y="116" font-family="Arial" font-size="20" font-weight="bold" fill="#e68900" text-anchor="middle">OPS</text>
+  <text x="200" y="208" font-family="Arial" font-size="14" fill="#333" text-anchor="middle">Plan • Code • Build • Test • Release • Deploy • Operate • Monitor</text>
+</svg>
